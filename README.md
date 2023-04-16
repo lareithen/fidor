@@ -3,11 +3,11 @@ A generator for random words, sentences and paragraphs.
 
 ## Installation
 ```
-pip3 install fidor
+pip3 install fidor.py
 ```
 or
 ```
-pip install fidor
+pip install fidor.py
 ```
 
 ## Example
