@@ -5,7 +5,7 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
 setup(
-    name='fidorr',
+    name='fidor.py',
     version='1.0',
     description='A generator for random words, sentences and paragraphs.',
     long_description=long_description,
